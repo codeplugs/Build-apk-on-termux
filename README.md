@@ -14,5 +14,5 @@ move aapt2 file to usr/bin
 ![](https://raw.githubusercontent.com/codeplugs/Build-apk-on-termux/main/Media_231212_110151.gif)
 
 # android project termux 
-* [test](https://github.com/codeplugs/Dp-Browser/releases)https://github.com/codeplugs/Dp-Browser/releases
+* (https://github.com/codeplugs/Dp-Browser/releases)https://github.com/codeplugs/Dp-Browser/releases
  
